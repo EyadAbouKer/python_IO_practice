@@ -1,0 +1,40 @@
+This Shape has id=1, perimeter=undefined, area=undefined
+This Rhombus has id=2, diagonal1=10.0, diagonal2=20.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Circle has id=3, perimeter=12.566370614359172, area=12.566370614359172
+This Ellipse has id=4, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
+This Shape has id=5, perimeter=undefined, area=undefined
+This Ellipse has id=6, semi-major=4.0, semi-minor=-1.0, area=-12.566370614359172, eccentricity=None
+This Rhombus has id=7, diagonal1=20.0, diagonal2=10.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Ellipse has id=8, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
+This Shape has id=9, perimeter=undefined, area=undefined
+This Rhombus has id=10, diagonal1=10.0, diagonal2=20.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Circle has id=11, perimeter=12.566370614359172, area=12.566370614359172
+This Ellipse has id=12, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
+This Shape has id=13, perimeter=undefined, area=undefined
+This Ellipse has id=14, semi-major=4.0, semi-minor=-1.0, area=-12.566370614359172, eccentricity=None
+This Rhombus has id=15, diagonal1=20.0, diagonal2=10.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Ellipse has id=16, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
+This Shape has id=17, perimeter=undefined, area=undefined
+This Rhombus has id=18, diagonal1=10.0, diagonal2=20.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Circle has id=19, perimeter=12.566370614359172, area=12.566370614359172
+This Ellipse has id=20, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
+This Shape has id=21, perimeter=undefined, area=undefined
+This Ellipse has id=22, semi-major=4.0, semi-minor=-1.0, area=-12.566370614359172, eccentricity=None
+This Rhombus has id=23, diagonal1=20.0, diagonal2=10.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Ellipse has id=24, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
+This Shape has id=25, perimeter=undefined, area=undefined
+This Rhombus has id=26, diagonal1=10.0, diagonal2=20.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Circle has id=27, perimeter=12.566370614359172, area=12.566370614359172
+This Ellipse has id=28, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
+This Shape has id=29, perimeter=undefined, area=undefined
+This Ellipse has id=30, semi-major=4.0, semi-minor=-1.0, area=-12.566370614359172, eccentricity=None
+This Rhombus has id=31, diagonal1=20.0, diagonal2=10.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Ellipse has id=32, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
+This Shape has id=33, perimeter=undefined, area=undefined
+This Rhombus has id=34, diagonal1=10.0, diagonal2=20.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Circle has id=35, perimeter=12.566370614359172, area=12.566370614359172
+This Ellipse has id=36, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
+This Shape has id=37, perimeter=undefined, area=undefined
+This Ellipse has id=38, semi-major=4.0, semi-minor=-1.0, area=-12.566370614359172, eccentricity=None
+This Rhombus has id=39, diagonal1=20.0, diagonal2=10.0, area=100.0, side=11.180339887498949, and inradius=4.47213595499958
+This Ellipse has id=40, semi-major=4.0, semi-minor=2.0, area=25.132741228718345, eccentricity=3.4641016151377544
